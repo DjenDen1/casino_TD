@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/casino-slots-3_fk_6ygn_.mp3</file>
+        <file>sounds/jg-032316-sfx-shuffling-poker-chips-nervously.mp3</file>
+    </qresource>
+</RCC>

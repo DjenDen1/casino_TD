@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/mainbackgound">
+        <file>a-casino-table-with-a-roulette-and-a-gold-trophy-on-it_760016-51.avif</file>
+    </qresource>
+    <qresource prefix="/D:\Qt_ProJ\casino777\source_qrc\casino-background-1y21fkgosel2dh09.jpg">
+        <file>casino-background-1y21fkgosel2dh09.jpg</file>
+    </qresource>
+    <qresource prefix="/practise">
+        <file>../resource/practice.png</file>
+    </qresource>
+</RCC>
